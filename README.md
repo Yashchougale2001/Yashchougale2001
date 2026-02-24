@@ -85,7 +85,7 @@ Production-ready **agentic Retrieval-Augmented Generation (RAG)** system for sec
 - Designed modular architecture separating ingestion, retrieval, reasoning, and API layers.
 - Implemented feedback logging pipeline for offline evaluation and improvement.
 
-[View Repository](YOUR_REPO_LINK)
+[View Repository](https://github.com/Yashchougale2001/agentic-rag-platform)
 
 ---
 
